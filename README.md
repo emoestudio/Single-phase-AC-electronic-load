@@ -2,6 +2,10 @@
 2022年省级全国大学生电子设计竞赛A题，单相交流电子负载，湖北省省特等奖
 
 
+![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/4e4d7b5b-1035-429c-a0b8-cc8a02ee04f0)
+
+![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/974f99e3-68be-4107-95ba-e17de840f3a2)
+
 
 # 功能汇总
 
