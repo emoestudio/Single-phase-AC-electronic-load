@@ -1,5 +1,5 @@
 # Single-phase-AC-electronic-load
-2022年省级全国大学生电子设计竞赛A题，单相交流电子负载，湖北省省特等奖
+2022年省级全国大学生电子设计竞赛A题，单相交流电子负载，湖北省省特等奖，代码开源
 
 
 ![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/4e4d7b5b-1035-429c-a0b8-cc8a02ee04f0)
