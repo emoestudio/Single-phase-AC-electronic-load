@@ -1,10 +1,12 @@
 # Single-phase-AC-electronic-load
 2022年湖北省全国大学生电子设计竞赛A题，带能量回馈的单相交流电子负载，代码开源，所有指标拿满
 
-![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/c7c62e28-496d-4b46-a838-02cd8fbaada6)![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/e0ec5e80-1f91-4117-baf2-f5443d20df4c)
+![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/c7c62e28-496d-4b46-a838-02cd8fbaada6)
+![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/e0ec5e80-1f91-4117-baf2-f5443d20df4c)
 
 
-![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/4e4d7b5b-1035-429c-a0b8-cc8a02ee04f0)![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/974f99e3-68be-4107-95ba-e17de840f3a2)
+![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/4e4d7b5b-1035-429c-a0b8-cc8a02ee04f0)
+![image](https://github.com/emoestudio/Single-phase-AC-electronic-load/assets/66322166/974f99e3-68be-4107-95ba-e17de840f3a2)
 
 
 # 功能汇总
