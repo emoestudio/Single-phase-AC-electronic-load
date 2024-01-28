@@ -1,0 +1,11 @@
+bsp_keyboard.c:13:10:Keyboard_ReadData	16	static
+bsp_keyboard.c:32:6:KeyAction	16	static
+bsp_keyboard.c:47:6:EXTI15_10_IRQHandler	8	static
+bsp_keyboard.c:62:6:SysTick_Init	8	static
+bsp_keyboard.c:74:6:SysTick_Delay_Us	24	static
+bsp_keyboard.c:86:6:delay_us	24	static
+bsp_keyboard.c:100:6:SysTick_Delay_Ms	16	static
+bsp_keyboard.c:109:6:SysTick_Us	24	static
+bsp_keyboard.c:114:6:SysTick_Ms	24	static
+bsp_keyboard.c:120:6:Keyboard_Init	48	static
+bsp_keyboard.c:170:6:delay_ms	24	static

@@ -1,0 +1,8 @@
+../Core/Src/eva_adc.c:18:6:ADC_DAC_get_and_show	8	static
+../Core/Src/eva_adc.c:30:6:ADC_To_adx	4	static
+../Core/Src/eva_adc.c:63:6:ADC_ad5_avg_Get	4	static
+../Core/Src/eva_adc.c:75:6:ADC_Real_Value_Get	4	static
+../Core/Src/eva_adc.c:93:6:ADC_Queue_Save	8	static
+../Core/Src/eva_adc.c:98:6:ADC_Sine_Calculate	8	static
+../Core/Src/eva_adc.c:104:6:ADC_Park_Transform	56	static
+../Core/Src/eva_adc.c:118:6:ADC_Paremeters_Calc	16	static

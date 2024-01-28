@@ -1,0 +1,3 @@
+../Core/Src/eva_key.c:9:6:Key_Clock	8	static
+../Core/Src/eva_key.c:29:6:Key_Detect	8	static
+../Core/Src/eva_key.c:87:6:Mode_Detect	8	static

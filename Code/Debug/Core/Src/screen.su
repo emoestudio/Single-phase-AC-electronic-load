@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+screen.c:13:6:Screen_Print	8	static
+screen.c:36:6:Screen_Fresh_Detect	4	static
+screen.c:55:6:Screen_Clock	4	static
+=======
+screen.c:16:6:Screen_Print	8	static
+screen.c:34:6:Screen_Fresh_Detect	4	static
+>>>>>>> parent of 9e7a168 (最终版本)

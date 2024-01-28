@@ -1,0 +1,3 @@
+../Core/Src/eva_screen.c:15:6:Screen_Print	8	static
+../Core/Src/eva_screen.c:71:6:Screen_Fresh_Detect	4	static
+../Core/Src/eva_screen.c:90:6:Screen_Clock	4	static

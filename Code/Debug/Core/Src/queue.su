@@ -1,0 +1,5 @@
+queue.c:13:9:initQueue	24	static
+queue.c:22:5:isEmpty	8	static
+queue.c:26:5:enQueue	16	static
+queue.c:35:5:deQueue	16	static
+queue.c:44:5:printQueue	8	static

@@ -1,0 +1,15 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:147:19:HAL_ADCEx_InjectedStart	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:250:19:HAL_ADCEx_InjectedStart_IT	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:361:19:HAL_ADCEx_InjectedStop	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:415:19:HAL_ADCEx_InjectedPollForConversion	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:486:19:HAL_ADCEx_InjectedStop_IT	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:548:10:HAL_ADCEx_InjectedGetValue	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:599:19:HAL_ADCEx_MultiModeStart_DMA	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:726:19:HAL_ADCEx_MultiModeStop_DMA	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:779:10:HAL_ADCEx_MultiModeGetValue	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:798:13:HAL_ADCEx_InjectedConvCpltCallback	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:815:19:HAL_ADCEx_InjectedConfigChannel	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:979:19:HAL_ADCEx_MultiModeConfigChannel	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:1026:13:ADC_MultiModeDMAConvCplt	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:1079:13:ADC_MultiModeDMAHalfConvCplt	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:1092:13:ADC_MultiModeDMAError	24	static
